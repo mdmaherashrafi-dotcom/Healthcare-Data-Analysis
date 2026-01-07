@@ -36,5 +36,5 @@ Through this project, I have learned to extract actionable insights from data an
 If you want to know more about my work or get in touch, you can use the information below:
 
 *   **Email:** mdmaherashrafi@gmail.com
-*   **LinkedIn:** www.linkedin.com
+*   **LinkedIn:** www.https://www.linkedin.com/in/md-maher-ashrafi-288a493a1
 *   **Phone:** 01873102736
