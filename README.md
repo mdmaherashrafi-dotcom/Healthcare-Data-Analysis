@@ -18,7 +18,8 @@ To run this project on your local system, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone github.com
+    git clone https://github.com/mdmaherashrafi-dotcom/Healthcare-Data-Analysis.git
+
     ```
 2.  **Install necessary libraries:**
     ```bash
@@ -36,5 +37,5 @@ Through this project, I have learned to extract actionable insights from data an
 If you want to know more about my work or get in touch, you can use the information below:
 
 *   **Email:** mdmaherashrafi@gmail.com
-*   **LinkedIn:** www.https://www.linkedin.com/in/md-maher-ashrafi-288a493a1
+​* **LinkedIn**: [MD MAHER ASHRAFI ](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1)
 *   **Phone:** 01873102736
