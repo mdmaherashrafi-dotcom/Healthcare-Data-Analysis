@@ -49,3 +49,12 @@ Based on my core technical competencies:
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/mdmaherashrafi-dotcom/Healthcare-Data-Analysis.git](https://github.com/mdmaherashrafi-dotcom/Healthcare-Data-Analysis.git)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-maher-ashrafi-288a493a1) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmaherashrafi@gmail.com)
+
+
+
+* **Phone:** +8801873102736
