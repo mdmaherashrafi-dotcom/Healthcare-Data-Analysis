@@ -3,14 +3,19 @@
 Hi! I'm **MD MAHER ASHRAFI**, a student at the **University of Dhaka**. As a **Data Analyst and AI Operations Specialist** with **3 years of professional experience (2023-2026)**, I transform raw healthcare data into actionable insights.
 
 ---
-
 ## 🎯 Project Overview
 This project automates medical record analysis to support clinical decisions:
 * **Pattern Identification:** Analyzes correlations between patient age and glucose levels.
 * **Statistical Rigor:** Processes datasets using **Pandas** and **NumPy** to generate summaries.
 * **Visual Clarity:** Provides **15% clearer insights** into diabetes risk factors using **Seaborn** and **Matplotlib**.
 
----
+### 💻 Languages & Technologies
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 
 ## 📈 Impact & Results (From CV)
 I engineered this tool reflecting my professional track record:
