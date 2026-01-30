@@ -1,15 +1,15 @@
-# 🏥 Healthcare Data Analysis Tool (Python)
+#  Healthcare Data Analysis Tool (Python)
 
 Hi! I'm **MD MAHER ASHRAFI**, a student at the **University of Dhaka**. As a **Data Analyst and AI Operations Specialist** with **3 years of professional experience (2023-2026)**, I transform raw healthcare data into actionable insights.
 
 ---
-## 🎯 Project Overview
+##  Project Overview
 This project automates medical record analysis to support clinical decisions:
 * **Pattern Identification:** Analyzes correlations between patient age and glucose levels.
 * **Statistical Rigor:** Processes datasets using **Pandas** and **NumPy** to generate summaries.
 * **Visual Clarity:** Provides **15% clearer insights** into diabetes risk factors using **Seaborn** and **Matplotlib**.
 
-### 💻 Languages & Technologies
+###  Languages & Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -17,7 +17,7 @@ This project automates medical record analysis to support clinical decisions:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-## 📈 Impact & Results (From CV)
+## Impact & Results (From CV)
 I engineered this tool reflecting my professional track record:
 * **Accuracy Boost:** Improved data processing precision by **20%+** using optimized **Python** scripts.
 * **Error Reduction:** Reduced factual error rates by **25%** through 1,000+ AI response reviews.
@@ -25,7 +25,7 @@ I engineered this tool reflecting my professional track record:
 
 ---
 
-## 🛠️ Technical Skill Set
+##  Technical Skill Set
 Based on my core technical competencies:
 
 | Category | Tools & Technologies |
@@ -37,14 +37,14 @@ Based on my core technical competencies:
 
 ---
 
-## 📂 Key Professional Insights
+##  Key Professional Insights
 * **Data Migration:** Automates transfer of raw clinical data into structured environments.
 * **System Integrity:** Managed quality control and documentation for high-impact AI modeling.
 * **Leadership:** Strategic communication skills as a Coordinator in high-pressure scenarios.
 
 ---
 
-## 🚀 Installation & Usage Guide
+##  Installation & Usage Guide
 
 1. **Clone the Repository:**
    ```bash
